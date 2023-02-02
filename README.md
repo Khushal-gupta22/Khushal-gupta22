@@ -1,18 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khushal Gupta
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><a href="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm"></a>
+
+
+<h1 align="center"> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Khushal Gupta </h1>
 =====================================================================================================================================
 
 An undergrad student learning web development, beginner in open source, and currently exploring new an exciting tech
 
 * 🌍  I'm based in New Delhi, India
-* 🧠  I'm learning about frontend technologies
+* 🧠  I'm currently learning about frontend technologies
+* 🎓  Passionate about open source
+* 📫  How to reach me **khushalkg12341@gmail.com**
 
 <a href="https://www.twitter.com/khushaaalll0_0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/khushaaalll0_0?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
 /></a>
 
 ### Skills
-
-
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
