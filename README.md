@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Khushal Gupta 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Khushal Gupta !
 =====================================================================================================================================
 
-An undergrad student learning web development, beginner in open source, and currently exploring new an exciting tech
+An undergrad student learning web development, beginner in open source, and currently exploring new an exciting tech..!
 
 * 🌍  I'm based in New Delhi, India
 * 🧠  I'm currently learning about frontend technologies
