@@ -1,8 +1,4 @@
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><a href="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm"></a>
-
-
-<h1 align="center"> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Khushal Gupta </h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Khushal Gupta 
 =====================================================================================================================================
 
 An undergrad student learning web development, beginner in open source, and currently exploring new an exciting tech
