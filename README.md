@@ -67,5 +67,3 @@ src="https://img.shields.io/twitter/follow/khushaaalll0_0?logo=twitter&style=for
 </p>
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Khushal-gupta22"><img src="https://github-readme-stats.vercel.app/api?username=Khushal-gupta22&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Khushal-gupta22's GitHub stats" /></a>
